@@ -13,7 +13,7 @@ php artisan lang:publish
 2.  Instale o pacote
 
 ```shell
-composer require lucascudo/laravel-pt-br-localization --dev
+composer require Guilherme-git/laravel-pt-br-localization --dev
 ```
 
 3.  Publique as traduções
